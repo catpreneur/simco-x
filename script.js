@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SimcoX
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/catpreneur/simco-x
 // @version      2025-09-15
 // @description  simco addons
 // @author       catpreneur
@@ -12,6 +12,8 @@
 // @require      https://unpkg.com/preact@10.19.2/dist/preact.umd.js
 // @require      https://unpkg.com/preact@10.19.2/hooks/dist/hooks.umd.js
 // @require      https://unpkg.com/htm@3.1.1/dist/htm.umd.js
+// @downloadURL  https://raw.githubusercontent.com/catpreneur/simco-x/refs/heads/main/script.js
+// @updateURL    https://raw.githubusercontent.com/catpreneur/simco-x/refs/heads/main/script.js
 // ==/UserScript==
 
 (async function () {
